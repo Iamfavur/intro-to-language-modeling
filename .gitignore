@@ -1,2 +1,2 @@
-.venv/
-.venv
+# how to correctly ignore the venv folder in a .gitignore file
+venv/
